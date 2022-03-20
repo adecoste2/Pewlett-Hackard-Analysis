@@ -1,0 +1,39 @@
+count,dept_name,title
+86,Customer Service,Engineer
+22,Customer Service,Technique Leader
+263,Customer Service,Senior Engineer
+1492,Customer Service,Staff
+3753,Customer Service,Senior Staff
+12,Customer Service,Assistant Engineer
+178,Development,Senior Staff
+13881,Development,Senior Engineer
+6777,Development,Engineer
+2110,Development,Technique Leader
+143,Development,Staff
+848,Development,Assistant Engineer
+1506,Finance,Staff
+3352,Finance,Senior Staff
+3516,Human Resources,Senior Staff
+1511,Human Resources,Staff
+1715,Marketing,Staff
+3581,Marketing,Senior Staff
+5795,Production,Engineer
+11848,Production,Senior Engineer
+1898,Production,Technique Leader
+200,Production,Senior Staff
+708,Production,Assistant Engineer
+112,Production,Staff
+3101,Quality Management,Senior Engineer
+183,Quality Management,Assistant Engineer
+1443,Quality Management,Engineer
+446,Quality Management,Technique Leader
+26,Research,Technique Leader
+322,Research,Senior Engineer
+3449,Research,Senior Staff
+1,Research,Manager
+120,Research,Engineer
+1397,Research,Staff
+10,Research,Assistant Engineer
+4367,Sales,Staff
+1,Sales,Manager
+10225,Sales,Senior Staff
